@@ -16,4 +16,4 @@ A Cool 😎 CSS for Youtube Music in Zen
 * Now You're Done 👍👍
 
 # Previews
-![Docked NavBar](Preview/Docked Panel.png)
+![Docked NavBar](Preview/Docked_Panel.png)
