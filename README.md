@@ -1,8 +1,8 @@
-#A Custom CSS for YouTube Music
+# A Custom CSS for YouTube Music
 
 A Cool 😎 CSS for Youtube Music in Zen
 
-##Installation
+## Installation
 * Install [Better-Lyrics](https://addons.mozilla.org/en-US/firefox/addon/better-lyrics/) Addon
 * Install CSS Editor like [StyleBot](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
 * Open [YouTube Music](music.youtube.com)
@@ -15,5 +15,5 @@ A Cool 😎 CSS for Youtube Music in Zen
 * ![After Pasting](https://github.com/user-attachments/assets/02eb692a-d170-45a1-a591-4e3924702608)
 * Now You're Done 👍👍
 
-#Previews
+# Previews
 ![Docked NavBar](Preview/Docked Panel.png)
