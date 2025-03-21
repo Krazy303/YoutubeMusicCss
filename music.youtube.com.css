@@ -150,6 +150,8 @@ ytmusic-guide-section-renderer.style-scope.ytmusic-guide-renderer {
 
 ytmusic-player#player[player-ui-state="MINIPLAYER"]{
 
-  margin-bottom: 1%;
+  margin-bottom: -0.5%;
+
+  margin-right: -2%;
 
 }
