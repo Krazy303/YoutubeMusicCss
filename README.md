@@ -18,10 +18,11 @@ A cool 😎 CSS for Youtube Music in Zen
 **Full Screen Player with Controls and Lyrics**
 ![Full Screen Player with Controls](Preview/Full-Screen-with-controls.png)
 
+
 ## Installation
 * Install [Better-Lyrics](https://addons.mozilla.org/en-US/firefox/addon/better-lyrics/) Addon
 * Install CSS Editor like [StyleBot](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
-* Open [YouTube Music](music.youtube.com)
+* Open [YouTube Music](https://music.youtube.com)
 * Run StyleBot
 * ![Click Here](https://github.com/user-attachments/assets/25145b81-7b71-4b83-912b-f4ffb6c259e8)
 * Go to Code Section
