@@ -37,3 +37,7 @@ A cool 😎 CSS for Youtube Music in Zen
 * Now You're Done 👍👍
 
 plz star this repo 😖
+
+## Credits
+
+[Sameerasw's My Internet repository](https://github.com/sameerasw/my-internet) for an base template for me to create this css on
