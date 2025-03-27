@@ -20,6 +20,10 @@ A cool 😎 CSS for Youtube Music in Zen
 
 
 ## Installation
+
+>[!NOTE]
+>You need to set `browser.tabs.allow_transparent_browser` tag to `true` in `about:config`
+
 * Install [Better-Lyrics](https://addons.mozilla.org/en-US/firefox/addon/better-lyrics/) Addon
 * Install CSS Editor like [StyleBot](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
 * Open [YouTube Music](https://music.youtube.com)
