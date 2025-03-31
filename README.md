@@ -2,7 +2,7 @@
 
 A cool 😎 CSS for Youtube Music in Zen
 
-## Preview
+## Previews
 **Docked NavBar And Floating Player**
 ![Docked NavBar](Preview/Docked-Panel.png)
 
