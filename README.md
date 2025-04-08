@@ -1,6 +1,6 @@
 # A Custom CSS for YouTube Music
 
-A cool 😎 CSS for YouTube Music in Zen.
+A cool 😎 CSS for YouTube Music in Zen Browser.
 
 ## Table of Contents
 - [Previews](#previews)
